@@ -1,5 +1,8 @@
 ## This Repository Contains the OpenAI ChatGPT-based Skills Suggester Application
-### Technology: Python-Django
+### Technology: Python-Django-OpenAIChat
+
+### API Details
+Model: text-davinci-003
 
 ### Results
 
