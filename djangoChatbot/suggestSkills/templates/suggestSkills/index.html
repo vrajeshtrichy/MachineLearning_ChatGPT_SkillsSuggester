@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<head>
+  <title>RK OpenAI ChatGPT</title>
+  <link
+    rel="shortcut icon"
+    href="{% static 'suggestSkills/aibrain.png' %}"
+  />
+  <link rel="stylesheet" href="{% static 'suggestSkills/main.css' %}">
+</head>
+
+<body>
+  <img src="{% static 'suggestSkills/aibrain.png' %}" class="icon" />
+  <h3>Suggest Skills</h3>
+  <form action="" method="post">
+    {% csrf_token %}
+    <input type="text" name="role" placeholder="Enter a Role" required />
+    <input type="submit" value="Generate Skills" />
+  </form>
+  {% if result %}
+      <div class="result">Requested Role: {{ question }}</div>
+      <div class="result">ChatGPT Answer: {{ result }}</div>
+  {% endif %}
+</body>
