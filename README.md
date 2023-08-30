@@ -74,6 +74,25 @@ To use the MachineLearning_ChatGPT_SkillsSuggester, follow these steps:
 4. The application will use GPT-3 to suggest three skills related to the given role.
 
 ---
+### API Details
+Model: text-davinci-003
+
+---
+
+### Demo
+
+#### Home Page
+![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result1.png "Searching")
+
+#### For: "AI Engineer"
+
+![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result2.png "Results for AI Engineer")
+
+#### For: "Communications Officer"
+
+![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result3.png "Results for Communications Officer")
+
+---
 
 ## Contributing
 
@@ -105,23 +124,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License.
-```
-
-Please replace the placeholder URLs, such as image URLs and project-specific details, with your actual information. This README provides a basic structure, and you can expand it further to include more details about your project, its features, and any additional instructions for users.
-
-### API Details
-Model: text-davinci-003
-
-### Demo
-
-#### Home Page
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result1.png "Searching")
-
-#### For: "AI Engineer"
-
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result2.png "Results for AI Engineer")
-
-#### For: "Communications Officer"
-
-![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result3.png "Results for Communications Officer")
+This project is licensed under the MIT License
