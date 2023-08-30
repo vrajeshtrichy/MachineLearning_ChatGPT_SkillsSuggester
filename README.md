@@ -73,8 +73,6 @@ To use the MachineLearning_ChatGPT_SkillsSuggester, follow these steps:
 
 4. The application will use GPT-3 to suggest three skills related to the given role.
 
-![Demo](https://your-demo-image-url.com) <!-- Add a screenshot or demo GIF of the application in action -->
-
 ---
 
 ## Contributing
@@ -115,7 +113,7 @@ Please replace the placeholder URLs, such as image URLs and project-specific det
 ### API Details
 Model: text-davinci-003
 
-### Results
+### Demo
 
 #### Home Page
 ![alt text](https://github.com/vrajeshtrichy/MachineLearning_ChatGPT_SkillsSuggester/blob/master/Results/Result1.png "Searching")
